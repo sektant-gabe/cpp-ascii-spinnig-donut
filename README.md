@@ -1,6 +1,6 @@
 # "The Everything Bagel"
 
-![[donut.gif]]
+![bagel](donut.gif)
 
 ## Installing and running the donut
 
