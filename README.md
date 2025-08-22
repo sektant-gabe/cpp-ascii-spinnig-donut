@@ -5,7 +5,7 @@
 ## Installing and running "The Bagel"
 
 ```console
-$ git clone sektant-gabe/cpp-ascii-spinnig-donut.git
+$ git clone https://github.com/sektant-gabe/cpp-ascii-spinnig-donut.git
 $ cd cpp-ascii-spinning-donut
 $ g++ -std=c++17 donut.cpp -o donut && ./donut
 ```
