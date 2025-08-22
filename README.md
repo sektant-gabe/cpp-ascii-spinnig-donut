@@ -1,4 +1,4 @@
-# "The Everything Beagle"
+# "The Everything Bagel"
 
 ![[donut.gif]]
 
