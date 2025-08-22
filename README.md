@@ -2,7 +2,7 @@
 
 ![bagel](donut.gif)
 
-## Installing and running the donut
+## Installing and running "The Bagel"
 
 ```console
 $ git clone sektant-gabe/cpp-ascii-spinnig-donut.git
