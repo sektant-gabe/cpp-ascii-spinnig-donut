@@ -4,7 +4,7 @@
 
 ## Installing and running "The Bagel"
 
-```console
+```
 $ brew install g++ # if you don't already have
 $ git clone https://github.com/sektant-gabe/cpp-ascii-spinning-donut.git
 $ cd cpp-ascii-spinning-donut/
@@ -13,7 +13,7 @@ $ g++ -std=c++17 donut.cpp -o donut && ./donut
 
 Now if you want to run it again without compiling: 
 
-```console
+```
 ./donut
 ```
 
